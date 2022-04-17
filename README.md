@@ -1,2 +1,2 @@
 # ChatApp
-ChatApp creating using .NET and WPF
+ChatApp created using .NET and WPF
