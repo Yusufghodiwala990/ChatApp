@@ -1,0 +1,16 @@
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.exe
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.deps.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\ref\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\ref\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.genruntimeconfig.cache
